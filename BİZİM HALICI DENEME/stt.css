@@ -1,0 +1,26 @@
+.baslik ul{
+    float:right;
+    margin-right:3%;
+}
+
+.baslik  ul li a{
+    color: rgb(12, 12, 12);
+    padding:10px;
+    text-decoration: none;
+
+}
+
+.baslik ul li a:hover{
+    color: aqua;
+
+}
+
+.baslik ul li {
+   
+    position: relative;
+    display: inline-block;
+    margin:0;
+    padding: 0;
+    
+
+}
